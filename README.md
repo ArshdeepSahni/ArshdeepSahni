@@ -3,21 +3,21 @@
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni" /> </p>
 
-- 🔭 I’m `currently working` on **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
+- 🔭 I’m **`currently working`** on **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
 
-- 🌱 I’m `currently learning` **Advance Features in _FLUTTER_.**
+- 🌱 I’m **`currently learning`** **`Advance Features in FLUTTER`.**
 
-- 👯 I’m looking to `collaborate` on **_Flutter Web Apps_ Projects, Any _Innovative Startup Ideas_!**
+- 👯 I’m looking to **`collaborate` on **_`Flutter Web Apps Projects` `&` `Any Innovative Startup Ideas!`**
 
-- 🤝 I’m looking for `help` with **getting _`Referrals`_ and _Opportunities_ to _intern_ and work with _`Product Based MNCs`_.**
+- 🤝 I’m looking for **`help`** with **`getting Referrals and Opportunities to intern and work with Product Based MNCs.`**
 
-- 📝 I regulary write `articles` on **[https://dev.to/arshdeepsahni](https://dev.to/arshdeepsahni)**
+- 📝 I regulary write **`articles`** on **[https://dev.to/arshdeepsahni](https://dev.to/arshdeepsahni)**
 
-- 💬 `Ask` me about **`HTML`, `CSS`, `JS`, `C++`, `Python`, `Java`, `Flutter`, `React`, `Dart`, `JSX`, ..._anything related to Tech_.**
+- 💬 **`Ask`** me about **`HTML`, `CSS`, `JS`, `C++`, `Python`, `Java`, `Flutter`, `React`, `Dart`, `JSX`, ..._anything related to Tech_.**
 
-- 📫 `Reach` me through **arsh22sahni@gmail.com**
+- 📫 **`Reach`** me through **arsh22sahni@gmail.com**
 
-- ⚡ `Fun fact` -> **`Interning` since my _`First Semester`_ of my `B.E.` _`( batch: 2019-2023 )`_.**
+- ⚡ **`Fun fact`** -> **`Interning since my First Semester of my B.E.( batch: 2019-2023 ).`**
 
 ### SKILLS
 <!-- BLOG-POST-LIST:START -->
