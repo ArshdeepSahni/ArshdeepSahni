@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Arshdeep Singh</h1>
-<h3 align="center">A passionate Web Application developer.</h3>
+# <h1 align="center">Hi 👋, I'm Arshdeep Singh</h1>
+## <h3 align="center">A passionate Web Application developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni" /> </p>
+## <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni" /> </p>
 
-- 🔭 I’m currently working on [AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)
+- 🔭 I’m `currently working` on **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
 
-- 🌱 I’m currently learning **Advance Features in FLUTTER.**
+- 🌱 I’m `currently learning` **Advance Features in _FLUTTER_.**
 
-- 👯 I’m looking to collaborate on **Flutter Web Apps Projects, Any Innovative Startup Ideas!**
+- 👯 I’m looking to `collaborate` on **_Flutter Web Apps_ Projects, Any _Innovative Startup Ideas_!**
 
-- 🤝 I’m looking for help with **getting Referral and Opportunities to intern and work with Product Based MNCs.**
+- 🤝 I’m looking for `help` with **getting _`Referrals`_ and _Opportunities_ to _intern_ and work with _`Product Based MNCs`_.**
 
-- 📝 I regulary write articles on [https://dev.to/arshdeepsahni](https://dev.to/arshdeepsahni)
+- 📝 I regulary write `articles` on **[https://dev.to/arshdeepsahni](https://dev.to/arshdeepsahni)**
 
-- 💬 Ask me about **HTML, CSS, JS, C++, Python, Java, Flutter, React, Dart, JSX, ...anything related to Tech.**
+- 💬 `Ask` me about **`HTML`, `CSS`, `JS`, `C++`, `Python`, `Java`, `Flutter`, `React`, `Dart`, `JSX`, ..._anything related to Tech_.**
 
-- 📫 How to reach me **arsh22sahni@gmail.com**
+- 📫 `Reach` me through **arsh22sahni@gmail.com**
 
-- ⚡ Fun fact **Interning since my First Semester of my B.E. ( batch: 2019-2023 ).**
+- ⚡ `Fun fact` -> **`Interning` since my _`First Semester`_ of my `B.E.` _`( batch: 2019-2023 )`_.**
 
-### Blogs posts
+### SKILLS
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
