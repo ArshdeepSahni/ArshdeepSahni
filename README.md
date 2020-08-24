@@ -7,7 +7,7 @@
 
 - 🌱 I’m **`currently learning`** **`Advance Features in FLUTTER`.**
 
-- 👯 I’m looking to **`collaborate` on **_`Flutter Web Apps Projects` `&` `Any Innovative Startup Ideas!`**
+- 👯 I’m looking to **`collaborate`** on **_`Flutter Web Apps Projects` `&` `Any Innovative Startup Ideas!`**
 
 - 🤝 I’m looking for **`help`** with **`getting Referrals and Opportunities to intern and work with Product Based MNCs.`**
 
