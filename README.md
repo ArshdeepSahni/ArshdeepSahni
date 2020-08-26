@@ -17,7 +17,7 @@
 
 - 📫 **`Reach`** me through **arsh22sahni@gmail.com**
 
-- ⚡ **`Fun fact`** -> **`Interning since my First Semester of my B.E.( batch: 2019-2023 ).`**
+- ⚡ **`fact`** -> **`Interning since my First Semester of my B.E.( batch: 2019-2023 ).`**
 
 ### SKILLS
 <!-- BLOG-POST-LIST:START -->
