@@ -13,7 +13,7 @@
 
 - 📝 I regulary write **`articles`** on **[https://dev.to/arshdeepsahni](https://dev.to/arshdeepsahni)**
 
-- 💬 **`Ask`** me about **`HTML`, `CSS`, `JS`, `C++`, `Python`, `Java`, `Flutter`, `React`, `Dart`, `JSX`, ..._anything related to Tech_.**
+- 💬 **`Ask`** me about : **`HTML`, `CSS`, `JS`, `C++`, `Python`, `Java`, `Flutter`, `React`, `Dart`, `JSX`, ..._anything related to Tech_.**
 
 - 📫 **`Reach`** me through **arsh22sahni@gmail.com**
 
