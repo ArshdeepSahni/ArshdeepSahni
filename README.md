@@ -3,7 +3,7 @@
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni" /> </p>
 
-- 🔭 **`Recent Project` submitted ** for **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
+- 🔭 `Recent Project` submitted for **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
 
 - 🌱 I’m **`currently learning`** **`Advance Features in FLUTTER`.**
 
