@@ -3,7 +3,7 @@
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni" /> </p>
 
-- 🔭 I’m **`currently working`** on **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
+- 🔭 **`Recent Project` submitted ** for **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
 
 - 🌱 I’m **`currently learning`** **`Advance Features in FLUTTER`.**
 
@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for **`help`** with **`getting Referrals and Opportunities to intern and work with Product Based MNCs.`**
 
-- 📝 I regulary write **`articles`** on **[https://dev.to/arshdeepsahni](https://dev.to/arshdeepsahni)**
+- 📝 I regulary write **`articles`** on **[dev.to](https://dev.to/arshdeepsahni)**
 
 - 💬 **`Ask`** me about : **`HTML`, `CSS`, `JS`, `C++`, `Python`, `Java`, `Flutter`, `React`, `Dart`, `JSX`, ..._anything related to Tech_.**
 
-- 📫 **`Reach`** me through **arsh22sahni@gmail.com**
+- 📫 **`Reach`** me through **[Mail](arsh22sahni@gmail.com)**
 
 - ⚡ **`fact`** -> **`Interning since my First Semester of my B.E.( batch: 2019-2023 ).`**
 
