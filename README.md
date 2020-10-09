@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <th>Ask</th>
+    <th>S<br>K<br>I<br>L<br>L<br>S</th>
     <th><table><th><h1>🄷🅃🄼🄻</h1></th><th><h1>🅒🅢🅢</h1></th><th><h1>🅹ava🆂cript</h1></th><th><h1>🅒✚✚</h1></th><th><h1>𝒫ython🐍</h1></th><th><h1>🅹🆂🅧</h1></th></table><table><th><h1>𝓕lutter📱</h1></th><th><h1>ℝeact⚛︎</h1></th><th><h1>ⅅart🧿</h1></th><th><h1>anything related to Tech...</h1></th></table></h1></th>
   </tr>
 </table>
