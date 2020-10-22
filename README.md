@@ -1,14 +1,14 @@
 # <h1 align="center">Hi 👋, I'm Arshdeep Singh </h1>
 ## <h3 align="center">A passionate Web Application developer.</h3><br><h1 align="center"> <img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni" /> </h1>
 
-||||
-|---|---|---|
-|🏆 **`Winner`**| : |**[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)**|
-|🔭 **`Recent Project`**| : |**`A Crowdsourcing Application`.**|
-|🌱 **`Currently Learning`**| : |**`Python and its implementations`.**|
-|👯 **`Collaboration`**| : |**`Flutter Web Apps Projects` _`&`_ `Any Innovative Startup Ideas!`**|
-|🤝 **`Get Me`**| : | **`Referrals and Opportunities to intern and work with Product Based MNCs`.**|
-|📝 **`Blog`**| : |**[dev.to](https://dev.to/arshdeepsahni)**|
+|||||
+|---|---|---|---|
+|🏆|**`Winner`**| : |**[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)**|
+|🔭|**`Recent Project`**| : |**`A Crowdsourcing Application`.**|
+|🌱|**`Currently Learning`**| : |**`Python and its implementations`.**|
+|👯|**`Collaboration`**| : |**`Flutter Web Apps Projects` _`&`_ `Any Innovative Startup Ideas!`**|
+|🤝|**`Get Me`**| : | **`Referrals and Opportunities to intern and work with Product Based MNCs`.**|
+|📝|**`Blog`**| : |**[dev.to](https://dev.to/arshdeepsahni)**|
 
 <table>
   <tr>
