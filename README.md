@@ -13,11 +13,6 @@
 |📫|**`Contact`**| : |✉️ [Mail](arsh22sahni@gmail.com) &nbsp;&nbsp;  📞 [Whatsapp](https://wa.me/9872453423) &nbsp;&nbsp;  ℹ️ [LinkedIn](https://www.linkedin.com/in/arshdeep-singh-418a9b194/)|
 |⚡|**`fact`**| : |**`Interning since my First Semester of my B.E.( batch: 2019-2023 )`.**|
 
-
-### <h2 align="center">SKILLS<h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <table>
   <tr>
     <th>S<br>K<br>I<br>L<br>L<br>S</th>
