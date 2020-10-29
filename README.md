@@ -1,5 +1,5 @@
 <table><tr><th><h1 align="center">Hi 👋, I'm Arshdeep Singh </h1></th></tr>
-<tr><td><h2 align="center">🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆</h2></td></tr>
+<tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
 <tr><td><h3 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/></h3></td></tr></tr></table>
 
 |||||
@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <th>S<br>K<br>I<br>L<br>L<br>S</th>
+    <th><br>𝓢<br><br>𝒌<br><br>𝓲<br><br>𝓵<br><br>𝓵<br><br>𝓢<br><br></th>
     <th><table><th><h1>🄷🅃🄼🄻</h1></th><th><h1>🅒🅢🅢</h1></th><th><h1>🅹ava🆂cript</h1></th><th><h1>🅒✚✚</h1></th><th><h1>𝒫ython🐍</h1></th><th><h1>🅹🆂🅧</h1></th></table><table><th><h1>𝓕lutter📱</h1></th><th><h1>ℝeact⚛︎</h1></th><th><h1>ⅅart🧿</h1></th><th><h1>anything related to Tech...</h1></th></table></h1></th>
   </tr>
 </table>
