@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arshdeep Singh </h1>
-<h2 align="center">🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆<br><br>
-<img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni" /> </h2>
+<table><tr><th><h1 align="center">Hi 👋, I'm Arshdeep Singh </h1></th></tr>
+<tr><td><h2 align="center">🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆</h2></td></tr>
+<tr><td><h3 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/></h3></td></tr></tr></table>
 
 |||||
 |---|---|---|---|
