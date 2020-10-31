@@ -1,3 +1,4 @@
+<table><tr><th>
 <table><tr><th><h1 align="center">Hi 👋, I'm Arshdeep Singh </h1></th></tr>
 <tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
 <tr><td><h3 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/></h3></td></tr></tr></table>
@@ -29,3 +30,4 @@
 <a href="https://dev.to/arshdeepsahni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arshdeepsahni" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/arshdeep-singh-418a9b194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshdeep-singh-418a9b194" height="30" width="30" /></a>
 </p>
+</th></tr></table>
