@@ -1,4 +1,4 @@
-<table><tr><th><img src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/banner.png"></th></tr></table>
+<table><tr><th><img src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/gitbanner.png"></th></tr></table>
 <table><tr><th>
 <table><tr><th><h1 align="center">Hi 👋, I'm Arshdeep Singh </h1></th></tr>
 <tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
