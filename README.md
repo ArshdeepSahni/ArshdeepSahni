@@ -1,6 +1,6 @@
 <table><tr><th><img src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/gitbanner.png"></th></tr></table>
 <table><tr><th>
-<table><tr><th><h1 align="center">Hi 👋, I'm Arshdeep Singh </h1></th></tr>
+<table><tr><th><h1 align="center">Arshdeep Singh</h1></th></tr>
 <tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
 <tr><td><h3 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/></h3></td></tr></tr></table>
 
