@@ -1,4 +1,11 @@
-<table><tr><th><img src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/gitbanner.png"></th></tr></table>
+<table>
+  <tr><th><img src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/gitbanner.png"></th></tr>
+</table>
+
+|<h3 align="center">[![AWS DATA-EXCHANGE CHALLENGE 2020 TECH-TALK](https://j.gifs.com/yoL8ZP.gif)](https://www.youtube.com/watch?v=6QI5b88ERts "AWS DATA-EXCHANGE CHALLENGE 2020 TECH-TALK")</h3>|
+|---|
+|<h3 align="center">AWS DATA-EXCHANGE CHALLENGE</h3>|
+
 <table><tr><th>
 <table><tr><th><h1 align="center">Arshdeep Singh</h1></th></tr>
 <tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
