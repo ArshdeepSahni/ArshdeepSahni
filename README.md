@@ -37,5 +37,6 @@
 <p align="center">
 <a href="https://dev.to/arshdeepsahni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arshdeepsahni" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/arshdeep-singh-418a9b194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshdeep-singh-418a9b194" height="30" width="30" /></a>
+<a href="https://twitter.com/Arshdeep__2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshdeep-singh-418a9b194" height="30" width="30" /></a>
 </p>
 </th></tr></table>
