@@ -6,7 +6,7 @@
 |---|
 |<h3 align="center">AWS DATA-EXCHANGE CHALLENGE</h3>|
 
-<span  align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=6&row=3)]()</span>
+<span  align="center">;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=6&row=3)]()</span>
 
 <table><tr><th>
 <table><tr><th><h1 align="center">Arshdeep Singh</h1></th></tr>
