@@ -6,11 +6,15 @@
 |---|
 |<h3 align="center">AWS DATA-EXCHANGE CHALLENGE</h3>|
 
+<span  align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=6&row=3)]()</span>
+
 <table><tr><th>
 <table><tr><th><h1 align="center">Arshdeep Singh</h1></th></tr>
 <tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
-<tr><td><h3 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/></h3></td></tr></tr></table>
-
+<tr><td><h1 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/></h1></td></tr></tr></table>
+  
+  
+  
 |||||
 |---|---|---|---|
 |🏆|**`Winner`**| : |**[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)**|
