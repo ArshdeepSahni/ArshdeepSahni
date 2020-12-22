@@ -24,7 +24,7 @@
 |🤝|**`Get Me`**| : | **`Referrals and Opportunities to intern and work with Product Based MNCs`.**|
 |📝|**`Blog`**| : |**[dev.to](https://dev.to/arshdeepsahni) & [CodeWithArsh - Hashnode](https://codewitharsh.hashnode.dev/)**|
 |📫|**`Contact`**| : |✉️ [Mail](arsh22sahni@gmail.com) &nbsp;&nbsp;  📞 [Whatsapp](https://wa.me/9872453423) &nbsp;&nbsp;  ℹ️ [LinkedIn](https://www.linkedin.com/in/arshdeep-singh-418a9b194/)|
-|⚡|**`fact`**| : |**`Interning since my First Semester of my B.E.( batch: 2019-2023 )`.**|
+
 
 <table>
   <tr>
