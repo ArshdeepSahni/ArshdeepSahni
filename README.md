@@ -17,7 +17,7 @@
   
 |||||
 |---|---|---|---|
-|🏆|**`Winner`**| : |**[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)**|
+|🏆|**`Winner`**| : |**[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)** & **[RALLYtoUS + VetsinTech Online Hackathon](https://devpost.com/software/qwe-8a2wtn)**|
 |🔭|**`Recent Project`**| : |**`A Crowdsourcing Application`.**|
 |🌱|**`Currently Learning`**| : |**`Python and its implementations`.**|
 |👯|**`Collaboration`**| : |**`Flutter Web Apps Projects` _`&`_ `Any Innovative Startup Ideas!`**|
