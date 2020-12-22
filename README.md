@@ -11,13 +11,14 @@
 <table><tr><th>
 <table><tr><th><h1 align="center">Arshdeep Singh</h1></th></tr>
 <tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
+<tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅡🅐🅛🅛🅨𝕋𝕠🆄🆂 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
 <tr><td><h1 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/></h1></td></tr></tr></table>
   
   
   
 |||||
 |---|---|---|---|
-|🏆|**`Winner`**| : |**[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)** & **[RALLYtoUS + VetsinTech Online Hackathon](https://devpost.com/software/qwe-8a2wtn)**|
+|🏆|**`Winner`**| : |• **[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)**<br>• **[RALLYtoUS + VetsinTech Online Hackathon](https://devpost.com/software/qwe-8a2wtn)**|
 |🔭|**`Recent Project`**| : |**`A Crowdsourcing Application`.**|
 |🌱|**`Currently Learning`**| : |**`Python and its implementations`.**|
 |👯|**`Collaboration`**| : |**`Flutter Web Apps Projects` _`&`_ `Any Innovative Startup Ideas!`**|
