@@ -5,7 +5,7 @@
 |<h3 align="center">[![AWS DATA-EXCHANGE CHALLENGE 2020 TECH-TALK](https://j.gifs.com/yoL8ZP.gif)](https://youtu.be/6QI5b88ERts?t=2206 "AWS DATA-EXCHANGE CHALLENGE 2020 TECH-TALK")</h3>|
 |---|
 |<h3 align="center"><i>𝕋𝕣𝕒𝕔𝕜𝕄𝕪ℂ𝕠𝕧𝕚𝕕</i></h3>|
-
+<br><br><br>
 <span  align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=6&row=3)]()</span>
 
 <table><tr><th>
