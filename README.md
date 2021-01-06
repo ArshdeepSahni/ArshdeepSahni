@@ -11,12 +11,6 @@
 
 <br><br><br>
 
-|<h3 align="center">[![AWS DATA-EXCHANGE CHALLENGE 2020 TECH-TALK](https://j.gifs.com/yoL8ZP.gif)](https://youtu.be/6QI5b88ERts?t=2206 "AWS DATA-EXCHANGE CHALLENGE 2020 TECH-TALK")</h3>|
-|---|
-|<h3 align="center"><i>𝕋𝕣𝕒𝕔𝕜𝕄𝕪ℂ𝕠𝕧𝕚𝕕</i></h3>|
-
-<br><br><br>
-
 <span  align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=6&row=3)]()</span>
 
 <br><br><br>
@@ -51,6 +45,27 @@
 
 <table><tr><th><h2 align="center">STATISTICS
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshdeepsahni&layout=compact&hide=html" alt="arshdeepsahni" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshdeepsahni&show_icons=true" alt="arshdeepsahni" /></h1></th></tr></table>
+
+## Project Gallery
+<table>
+  <tr>
+    <th>
+      <h3 align="center">TrackMyCovid: Covid Tracking, Statistics & Analysis App</h3>
+    </th>
+    <th>
+      <h3 align="center">SheHeroes: Women Safety App</h3>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://youtu.be/6QI5b88ERts?t=2206"><img width="500px" src="https://user-images.githubusercontent.com/56549294/103747827-40719980-5029-11eb-8d11-99095ea4d5f8.png"></a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=WHeEBHpxZbA"><img width="500px" src="https://user-images.githubusercontent.com/56549294/103746731-93e2e800-5027-11eb-986e-98bbb30d865f.png"></a>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
 <a href="https://dev.to/arshdeepsahni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arshdeepsahni" height="30" width="30" /></a>
