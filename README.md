@@ -57,6 +57,7 @@
 <br><br><br>
 
 <table><tr><th><h1 align="center">STATISTICS
+<h1 align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arshdeepsahni&" alt="rakti"  width="400px" height="190px" /></h1>
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshdeepsahni&layout=compact&hide=html" alt="arshdeepsahni" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshdeepsahni&show_icons=true" alt="arshdeepsahni" /></h1></th></tr></table>
 
 <br><br><br>
