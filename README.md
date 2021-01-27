@@ -48,7 +48,7 @@
 <div align="center"><table>
   <div align="center"><tr>
     <th><br>𝓢<br><br>𝒌<br><br>𝓲<br><br>𝓵<br><br>𝓵<br><br>𝓢<br><br></th>
-    <th><table><th><h1>🄷🅃🄼🄻</h1></th><th><h1>🅒🅢🅢</h1></th><th><h1>🅹ava🆂cript</h1></th><th><h1>🅒✚✚</h1></th><th><h1>🐍𝒫ython</h1></th></table></div><div align="center"><table><th><h1>🅹🆂🅧</h1></th><th><h1>📱𝓕lutter</h1></th><th><h1>⚛︎ℝeact</h1></th><th><h1>🧿ⅅart</h1></th></table></div><div align="center"><table><th><h1>⚡️𝙁astAPI</h1></th><th><h1>🐘PostgreSQL</h1></th></table></div><div align="center"><table><th><h1>anything related to Tech...</h1></th></table></div></h1></th>
+    <th><table><th><h1>🄷🅃🄼🄻</h1></th><th><h1>🅒🅢🅢</h1></th><th><h1>🅱ootstrap</h1></th><th><h1>🅹ava🆂cript</h1></th></table></div><div align="center"><table><th><h1>🅒✚✚</h1></th><th><h1>🐍𝒫ython</h1></th></table></div><div align="center"><table><th><h1>🧿ⅅart</h1></th><th><h1>📱𝓕lutter</h1></th><th><h1>⚛︎ℝeact</h1></th><th><h1>🅹🆂🅧</h1></th></table></div><div align="center"><table><th><h1>⚡️𝙁astAPI</h1></th><th><h1>🐘PostgreSQL</h1></th></table></div><div align="center"><table><th><h1>anything related to Tech...</h1></th></table></div></h1></th>
   </tr></div>
 </table>
 
