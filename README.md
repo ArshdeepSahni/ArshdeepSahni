@@ -1,18 +1,18 @@
 <h4 align="center">
+  
+  <div align="center"><table>
+  <tr><th><img width="100%" src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/ArshdeepSahni%20Github%20Open%20Source%20Contributions.gif"></th></tr>
+</table></div>
 
 <!--div align="center"><a href=""><img width="50%" src="https://user-images.githubusercontent.com/56549294/103558860-4e190900-4edb-11eb-8b59-ee517cc1617a.png"></a></div>
 <br><br><br><-->
 
 <div align="center"><table>
-  <tr><th><img width="100%" src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/ArshdeepSahni%20Github%20Open%20Source%20Contributions.gif"></th></tr>
+  <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="100%" src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/ArshdeepSahni%20Github%20Open%20Source%20Contributions.gif"></a></th></tr>
 </table></div>
 
 <br><br><br>
 
-
-<a href="https://skyline.github.com/arshdeepsahni/2020"><div><table>
-  <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109679593-b9145280-7ba1-11eb-90cb-f3c003b04c95.gif"></a></th></tr>
-</table></div></a>
 
 <br><br><br>
 
