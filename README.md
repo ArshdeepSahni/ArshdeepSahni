@@ -4,7 +4,7 @@
 <br><br><br><-->
 
 <div align="center"><table>
-  <tr><th><img width="100%" src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/gitbanner.png"></th></tr>
+  <tr><th><img width="100%" src="https://github.com/ArshdeepSahni/ArshdeepSahni/blob/master/ArshdeepSahni%20Github%20Open%20Source%20Contributions.gif"></th></tr>
 </table></div>
 
 <br><br><br>
