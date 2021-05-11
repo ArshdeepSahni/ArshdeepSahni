@@ -1,8 +1,9 @@
 <h4 align="center">
   
   <div align="center"><table>
-  <tr><th><img width="100%" src="gitbanner.png"></th></tr>
+  <tr><th><img width="100%" src="https://user-images.githubusercontent.com/56549294/117779309-2f959680-b25c-11eb-97ed-1e5088d5674b.pn"></th></tr>
 </table></div>
+
 
 <br><br><br>
 
@@ -100,4 +101,7 @@
 
 <br><br><br>
 
+<div align="center"><table>
+  <tr><th><img width="100%" src="gitbanner.png"></th></tr>
+</table></div>
 
