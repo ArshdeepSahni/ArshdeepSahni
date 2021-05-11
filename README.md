@@ -19,7 +19,8 @@
 
 <br><br><br>
 
-<span  align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=6&row=3)]()</span>
+|[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=7&row=3)]()|
+|---|
 
 <br><br><br>
 
