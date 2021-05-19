@@ -19,30 +19,22 @@
 
 <br><br><br>
 
-|[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=7&row=3)]()|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=7&row=5)]()|
 |---|
 
 <br><br><br>
+  
+<span align="center">
 
-<table><tr><th>
-<table>
-  <tr>
-    <th><div align="center"><table><tr><th><img align="center" height="400px" alt="Arshdeep Singh" src="https://user-images.githubusercontent.com/56549294/103673390-8552ed00-4fa3-11eb-9af6-55817fc650d4.png"></th></tr></table></div></th>
-  </tr>
-  <tr>
-    <th><h1 align="center">Arshdeep Singh</h1></th>
-  </tr>
-  <tr>
-    <td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅐🅦🅢 🄳🄰🅃🄰－🄴🅇🄲🄷🄰🄽🄶🄴－🄲🄷🄰🄻🄻🄴🄽🄶🄴 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td>
-  </tr>
-<tr><td><h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 🅡🅐🅛🅛🅨𝕋𝕠🆄🆂 🅦🅘🅝🅝🅔🅡 🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></td></tr>
-<tr><td><h1 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/></h1></td></tr></tr></table>
+<div align="center"><table><tr><th><img align="center" height="400px" alt="Arshdeep Singh" src="https://user-images.githubusercontent.com/56549294/103673390-8552ed00-4fa3-11eb-9af6-55817fc650d4.png"></th></tr></table></div></th>
+<h1 align="center">Arshdeep Singh</h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/></h1>
   
   
   
-|||||
-|---|---|---|---|
+
 |🏆|**`Winner`**| : |• **[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)**<br>• **[RALLYtoUS + VetsinTech Online Hackathon](https://devpost.com/software/qwe-8a2wtn)**|
+|---|---|---|---|
 |🔭|**`Recent Project`**| : |**`A Crowdsourcing Application`.**|
 |🌱|**`Currently Learning`**| : |**`Python and its implementations`.**|
 |👯|**`Collaboration`**| : |**`Flutter Web Apps Projects` _`&`_ `Any Innovative Startup Ideas!`**|
