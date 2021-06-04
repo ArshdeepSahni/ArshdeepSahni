@@ -63,6 +63,22 @@
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshdeepsahni&layout=compact&hide=html" alt="arshdeepsahni"  width="80%" /></h1>
 </tr><tr>
  <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshdeepsahni&show_icons=true" alt="arshdeepsahni"  width="80%"/></h1></tr></tr></table>
+ 
+ 
+ 
+ 
+ 
+ 
+ <h1 align="center">STATISTICS
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshdeepsahni&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshdeepsahni&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshdeepsahni&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshdeepsahni&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arshdeepsahni&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arshdeepsahni&theme=dracula)
+  
+</h1>
 
 <br><br><br>
 
