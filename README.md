@@ -93,6 +93,16 @@
 
 <br><br><br>
 
+<hr>
+
+
+|![ github activity graph](https://activity-graph.herokuapp.com/graph?username=arshdeepsahni&theme=dracula&area=true)|
+|---|
+
+<hr>
+
+<br><br><br>
+
 <div align="center"><table>
   <tr><th><img width="100%" src="gitbanner.png"></th></tr>
 </table></div>
