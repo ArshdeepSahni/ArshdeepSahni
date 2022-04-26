@@ -16,32 +16,8 @@
 
 <br><br><br>
 
-
-<br><br><br>
-
-|[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=7&row=5)]()|
-|---|
-
-<br><br><br>
+<div align="center">
   
-<span align="center">
-
-<div align="center"><table><tr><th><img align="center" height="400px" alt="Arshdeep Singh" src="https://user-images.githubusercontent.com/56549294/103673390-8552ed00-4fa3-11eb-9af6-55817fc650d4.png"></th></tr></table></div></th>
-<h1 align="center">Arshdeep Singh</h1>
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/></h1>
-  
-  
-  
-
-|🏆|**`Winner`**| : |• **[AWS DATA-EXCHANGE Hackathon, USA](https://devpost.com/software/qwe-8a2wtn)**<br>• **[RALLYtoUS + VetsinTech Online Hackathon](https://devpost.com/software/qwe-8a2wtn)**|
-|---|---|---|---|
-|🔭|**`Recent Project`**| : |**`A Crowdsourcing Application`.**|
-|🌱|**`Currently Learning`**| : |**`Python and its implementations`.**|
-|👯|**`Collaboration`**| : |**`Flutter Web Apps Projects` _`&`_ `Any Innovative Startup Ideas!`**|
-|🤝|**`Get Me`**| : | **`Referrals and Opportunities to intern and work with Product Based MNCs`.**|
-|📝|**`Blog`**| : |**[dev.to](https://dev.to/arshdeepsahni) & [CodeWithArsh - Hashnode](https://codewitharsh.hashnode.dev/)**|
-|📫|**`Contact`**| : |✉️ [Mail](arsh22sahni@gmail.com) &nbsp;&nbsp;  📞 [Whatsapp](https://wa.me/9872453423) &nbsp;&nbsp;  ℹ️ [LinkedIn](https://www.linkedin.com/in/ArshdeepSahni)|
-
 <br><br><br>
 
 <h1 align="center">STATISTICS
@@ -60,6 +36,12 @@
   
 </h1>
 
+ 
+|[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=7&row=5)]()|
+|---|
+  
+<span align="center">
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/></h1>
 <br><br><br>
 
 <table><tr><th>
@@ -93,11 +75,9 @@
 
 <br><br><br>
 
-<hr>
 
-
-|![ github activity graph](https://activity-graph.herokuapp.com/graph?username=arshdeepsahni&theme=dracula&area=true)|
-|---|
+<!-- |![ github activity graph](https://activity-graph.herokuapp.com/graph?username=arshdeepsahni&theme=dracula&area=true)|
+|---| -->
 
 <hr>
 
