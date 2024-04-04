@@ -10,9 +10,9 @@
 <!--div align="center"><a href=""><img width="50%" src="https://user-images.githubusercontent.com/56549294/103558860-4e190900-4edb-11eb-8b59-ee517cc1617a.png"></a></div>
 <br><br><br><-->
 
-<div align="center"><table>
+<!---div align="center"><table>
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
-</table></div>
+</table></div><-->
 
 <br><br><br>
 
@@ -37,8 +37,7 @@
 </h1>
 
  
-|[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=7&row=5)]()|
-|---|
+[![trophy](https://github-profile-trophy.vercel.app/?username=arshdeepsahni&margin-w=15&column=10&row=5)]()
   
 <span align="center">
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=arshdeepsahni" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ArshdeepSahni?style=flat-square" alt="arshdeepsahni"/></h1>
@@ -83,7 +82,6 @@
 
 <br><br><br>
 
-<div align="center"><table>
+<!--div align="center"><table>
   <tr><th><img width="100%" src="gitbanner.png"></th></tr>
-</table></div>
-
+</table></div><-->
